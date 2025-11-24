@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-My insightful exploration of the Amazon Sales dataset, characterized by its remarkable cleanliness and consistency, yielded a treasure trove of findings. Through a series of targeted inquiries, we unlocked detailed answers and shed light on previously veiled aspects of the data and findings as follows:¶
+My insightful exploration of the Amazon Sales dataset, characterized by its remarkable cleanliness and consistency, yielded a treasure trove of findings. Through a series of targeted inquiries, we unlocked detailed answers and shed light on previously veiled aspects of the data and findings as follows:
 Q1: What is the average rating for each product category?
 Answer 1:
 The output shows that most product categories have generally positive customer feedback, with average ratings above 3.50. However, some categories (e.g., 2 and 3) have lower ratings, suggesting potential areas for improvement. Further analysis of these categories could help identify specific reasons for lower feedback and identify potential solutions.
